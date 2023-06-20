@@ -1,0 +1,49 @@
+@media (max-width: 576px) {
+    .container-fluid{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+    .flowers img {
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .flowers {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .vk img {
+        width: 500px;
+        margin-bottom: 20px;
+    }
+
+    .size-text {
+        text-align: center;
+    }
+
+    .footer-info {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 16px;
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .footer-text {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 21px;
+        color: #000000;
+        margin-bottom: 30px;
+    }
+}
